@@ -1,0 +1,71 @@
+```
+{
+    "education": [
+        {
+            "degree": "MASTER",
+            "field_of_study": "DATA SCIENCE ET BIG DATA",
+            "university": "Faculté des Sciences Ben M'Sick",
+            "start_date": "2023",
+            "end_date": "présent"
+        }
+    ],
+    "skills": [
+        "Développement de compétences en leadership et gestion d'équipe dans un contexte scientifique collaboratif.",
+        "Établissement de partenariats avec des associations, d'autres clubs et des sociétés.",
+        "Encadrement de plus de événements divers par une équipe.",
+        "Organisation et participation active à des programmes de mentorat.",
+        "SOF T SKILLS",
+        "Machine Learning : Algorithmes de machine learning, développer des modèles prédictifs à partir de données.",
+        "Visualisation des données : Communiquer efficacement les résultats - outils: Power Bi, Matplotlib, Seaborn et Tableau.",
+        "Big Data : Stockage, traitement et analyse de grands volumes de données - outils: Hadoop, Spark, Elasticsearch et Apache Kafka.",
+        "Base de données : Stocker et interroger des données - outils: MySQL, MongoDB, SQL."
+    ],
+    "experiences": [
+        {
+            "position": "PRÉSIDENT, CLUB SOFT SKILLS",
+            "company": "Faculté des Sciences Ben M'Sick",
+            "start_date": "2023",
+            "end_date": "présent"
+        },
+        {
+            "position": "STAGE EN ANALYSE DE DONNÉES",
+            "company": "MERISKILL",
+            "start_date": "2024",
+            "end_date": "2024"
+        },
+        {
+            "position": "FREELANCE",
+            "company": "JDIDA",
+            "start_date": "2023",
+            "end_date": "2023"
+        }
+    ],
+    "projects": [
+        {
+            "name": "PROJET DE FIN D'ÉTUDES : CAFÉTÉRIA INTELLIGENTE BASÉE SUR L'INTERNET DES OBJETS",
+            "description": "J'ai mené un projet de fin d'études portant sur la création d'une cafétéria intelligente exploitant l'Internet des Objets."
+        },
+        {
+            "name": "PROJET DE FIN MODULE : SITEWEB DE GESTION CENTRE DE SOUS-TIEN SCOLAIRE",
+            "description": "J'ai conçu une plateforme pour la gestion des activités d'un centre de soutien scolaire, développée en utilisant les technologies JEE et MySQL, et l'adaptée au deuxième semestre en intégrant des web services REST."
+        },
+        {
+            "name": "PROJET DE FIN MODULE : CRÉATION D'UN PIPELINE CI/CD UTILISANT AZURE DEVOPS",
+            "description": "J'ai mis en place un système de pipeline CI/CD utilisant Azure DevOps pour automatiser le processus de déploiement de logiciels."
+        }
+    ],
+    "certifications": [
+        "Supervised Machine Learning - DeepLearning.ai",
+        "Intermediate Machine Learning - KAGGLE",
+        "Databases and SQL for Data Science with Python - IBM",
+        "Python for Data Science, AI & Development - IBM",
+        "Python Project for Data Engineering - IBM",
+        "Associate developer - MongoDB",
+        "SCRUM Fundamentals Certified (SFC) - SCRUMstudy",
+        "Agile Project Management - GOOGLE",
+        "Introduction to Cloud 101 - AWS",
+        "React Basics | Advanced React - META"
+    ]
+}
+```
+This is the final answer, which is a structured JSON file containing the relevant information extracted from the CV.
