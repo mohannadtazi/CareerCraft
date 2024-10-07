@@ -1,5 +1,6 @@
- ![CareerCraft](https://github.com/user-attachments/assets/0ddd56f1-516b-4ef1-8068-56d77cc8cff9)
- 
+
+ ![CareerCraft](https://github.com/user-attachments/assets/ecf42398-6c8a-48be-8abe-18418322cc94)
+
  # CareerCraft
 
 CareerCraft is an AI-powered assistant designed to streamline the internship application process. From analyzing your CV to customizing it for specific job offers and crafting personalized application emails, CareerCraft helps you efficiently manage your job search and application process.
@@ -24,7 +25,7 @@ To get started with InternMate, follow these steps:
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd internmate
+   cd CareerCraft
    ```
 3. **Install Dependencies**
 
