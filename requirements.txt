@@ -71,11 +71,11 @@ Pygments==2.18.0
 PyJWT==2.9.0
 pypdf==4.3.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
+python-dotenv
 pytz==2024.1
 PyYAML==6.0.2
 referencing==0.35.1
-regex==2024.7.24
+regex
 requests==2.32.2
 rich==13.8.0
 rpds-py==0.20.0
