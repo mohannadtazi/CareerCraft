@@ -4,7 +4,7 @@ load_dotenv()
 from crewai import Agent
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
-from src_py.tools import file_read_tool, file_writer_tool, search_tool, rag_search_tool, codding_tool
+from src_py.tools import file_read_tool, search_tool, rag_search_tool, codding_tool #,file_writer_tool
 
 llm=ChatGoogleGenerativeAI(model="gemini-1.5-pro",verbose=True, temperature=0.5,google_api_key=os.getenv("GOOGLE_API_KEY"),max_tokens=None,
     timeout=None)
