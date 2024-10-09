@@ -5,4 +5,5 @@ langchain
 langchain-core
 langchain-groq
 langchain_google_genai
+PyPDF2
 pysqlite3-binary
