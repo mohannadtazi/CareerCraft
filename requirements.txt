@@ -6,4 +6,5 @@ langchain-core
 langchain-groq
 langchain_google_genai
 PyPDF2
+fitz
 pysqlite3-binary
