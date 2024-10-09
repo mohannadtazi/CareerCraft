@@ -7,4 +7,5 @@ langchain-groq
 langchain_google_genai
 PyPDF2
 fitz
+PyMuPDF
 pysqlite3-binary
