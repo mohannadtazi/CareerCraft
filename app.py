@@ -9,7 +9,10 @@ from PIL import Image
 import tempfile
 import os
 from src_py.crew import crew
+import asyncio
 
+if not asyncio.get_event_loop().is_running():
+    asyncio.set_event_loop(asyncio.new_event_loop())
 
 
 # Set favicon and page configuration
