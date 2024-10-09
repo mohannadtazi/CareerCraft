@@ -7,8 +7,7 @@ from langchain_groq import ChatGroq
 from src_py.tools import file_read_tool, file_writer_tool, search_tool, rag_search_tool, codding_tool
 
 llm=ChatGoogleGenerativeAI(model="gemini-1.5-pro",verbose=True, temperature=0.5,google_api_key=os.getenv("GOOGLE_API_KEY"),max_tokens=None,
-    timeout=None,
-    max_retries=2,)
+    timeout=None)
 
 #llm = ChatGroq( model="llama3-8b-8192", temperature=0.5, verbose=True)
 
