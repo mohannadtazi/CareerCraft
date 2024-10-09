@@ -1,6 +1,6 @@
 from crewai import Task
 from src_py.agents import Profile_analyzer_Agent, Job_search_Agent#, Cv_customizer_Agent, Email_crafter_Agent, Application_tracker_Agent
-from src_py.tools import file_read_tool, file_writer_tool, search_tool, rag_search_tool, codding_tool
+from src_py.tools import file_read_tool, search_tool, rag_search_tool, codding_tool# , file_writer_tool
 
 
 profile_analysis_task = Task(
