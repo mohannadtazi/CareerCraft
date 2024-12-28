@@ -57,7 +57,7 @@ if resume:
         result = crew.kickoff({"position": position, "pdf_url": temp_file_path})
         
         st.write('The job search has been completed! Please check the results below.')
-        st.write(result.raw)
+        st.write(result)
 
         # Read and display the profile analysis markdown file
         profile_file_path = 'profile_analysis.md'  # Ensure this file exists in your directory
